@@ -1,6 +1,8 @@
 def main(msg):
     # dodajemo jos komentara
     print(msg)
-    #jos jedan komentar
+   #izbrisano
 main("hello")
 #komentar
+def secondary():
+print("new")
